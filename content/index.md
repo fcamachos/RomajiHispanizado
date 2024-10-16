@@ -5,7 +5,13 @@ tags:
 description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-10-16
 ---
-[<img src="https://pagina.fciencias.unam.mx/sites/default/files/logoFC_2.png" width="400" style="float:right;border-radius:10%;filter:invert(10%)"/>](https://www.fciencias.unam.mx)
+
+| fcamachos |                        |
+| --------- | ---------------------- |
+|           | ![[exlibris.jpg\|300]] |
+
+
+
 # Objetivo
 
 La intención de estos apuntes es dar una oportunidad a aquellos entusiastas del japonés para aprender el idioma a un nivel conversacional sin tener que lidiar necesariamente con la necesidad de aprender y dominar los silabarios del japonés[^1]: *[[hiragana]]* y *[[katakana]]*; así como del sistema de ideogramas, *[[kanji]]*.
