@@ -7,13 +7,6 @@ description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-10-16
 ---
 
-
-| fcamachos |                        |
-| --------- | ---------------------- |
-|           | ![[exlibris.jpg\|300]] |
-
-
-
 **Introducción**
 
 El objetivo de estos apuntes es ofrecer a los entusiastas del japonés una forma de alcanzar un nivel conversacional sin la necesidad inmediata de dominar los silabarios ([[hiragana]] y [[katakana]]) o el complejo sistema de [[kanji]].
@@ -29,15 +22,9 @@ Estos apuntes están diseñados para quienes buscan un enfoque **práctico y con
 Por supuesto, si tu meta es vivir o trabajar en Japón, tarde o temprano necesitarás aprender a leer y escribir. Pero si solo quieres interactuar de manera casual, **estos apuntes son para ti**.
 
 
-
+---
+▶ **Siguiente**: [[01 Transliteración y fonetización|Transliteración y fonetización →]]  
 
 ---
-
-
-|     | \|\| |     Transliteración y fonetización >>     |
-| :-: | :--: | :---------------------------------------: |
-|     |      | [[01 Transliteración y fonetización\|➡️]] |
-
-
 
 
