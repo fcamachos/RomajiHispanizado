@@ -1,16 +1,16 @@
 ---
-title: Romaji Hispanizado
+
+title: Inicio
 draft: false
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-10-16
 ---
 
+
 | fcamachos |                        |
 | --------- | ---------------------- |
 |           | ![[exlibris.jpg\|300]] |
-
-
 
 # Objetivo
 
@@ -20,16 +20,24 @@ Imaginemos la siguiente situación: un trabajador mexicano, ‘[[Memo]]’, es c
 
 Sus intentos podrían verse frustrados al enterarse de que muchos cursos de japonés comienzan enseñando hiragana y, dependiendo de la habilidad del estudiante, le tomaría por lo menos algunas semanas en comenzar a formular oraciones más o menos coherentes.
 
-Esta es solo una de las razones que me animaron a escribir *tips* y ayudas para aprender japonés desde un punto de vista conversacional. Dejando la parte de la lectura y la escritura como aditivos opcionales para estas personas.
+Ésta es solo una de las razones que me animaron a escribir *tips* y ayudas para aprender japonés desde un punto de vista conversacional. Dejando la parte de la lectura y la escritura como aditivos opcionales para estas personas.
 
 Por supuesto, si lo que quieres es viajar a Japón como turista o trabajador, la lectura y escritura podrían llegar a ser obligatorias. Pero si tu interés es más casual/conversacional, estos apuntes son para ti.
 
 ---
 
 
-|| [[Transliteración y fonetización]] >>
+|     | \|\| |     Transliteración y fonetización >>     |
+| :-: | :--: | :---------------------------------------: |
+|     |      | [[01 Transliteración y fonetización\|➡️]] |
 
 
 [^1]: Lo que muchos hispanohablantes conocerían como alfabetos. 
 
 
+---
+
+**Licencia:** Este documento está licenciado bajo una [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
+© 2025 **fcamachos**
+
+---

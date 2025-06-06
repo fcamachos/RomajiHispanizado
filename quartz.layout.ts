@@ -1,3 +1,4 @@
+import { title } from "node:process"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -27,11 +28,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
+    Component.DesktopOnly(Component.Explorer({title:"Explorar"})),
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
