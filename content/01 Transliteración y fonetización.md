@@ -11,7 +11,7 @@ El sistema de escritura japonés es radicalmente distinto al alfabeto latino que
 
 ### El origen del romaji
 
-Durante la apertura de Japón al comercio occidental en el siglo XIX, surgió la necesidad de crear el [[romaji]] (ローマ字, "caracteres romanos"), un sistema que translitera la escritura japonesa usando nuestro alfabeto. Este desarrollo fue crucial para facilitar la comunicación internacional.
+Durante la apertura de Japón al comercio occidental en el siglo XIX, surgió la necesidad de crear el romaji (ローマ字, "caracteres romanos"), un sistema que translitera la escritura japonesa usando nuestro alfabeto. Este desarrollo fue crucial para facilitar la comunicación internacional.
 
 ### ¿Qué es la transliteración?
 

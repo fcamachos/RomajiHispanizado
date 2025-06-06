@@ -130,7 +130,9 @@ Podrá escribir mediante un método de entrada japonés lo siguiente:
 
 Esta oración resulta perfectamente entendible para un nipón aunque carezca de los _[[kanji]]_ correspondientes a "yo" `私` y "gustar mucho"　`大好き`. Además de escribir correctamente en _katakana_ la palabra _soccer_ `サッカー`. 
 
-### 1. Transición a Kana
+### Otros Beneficios
+
+#### 1. Transición a Kana
 
 Nuestro sistema crea mapas mentales precisos:
 
@@ -141,18 +143,18 @@ Nuestro sistema crea mapas mentales precisos:
 - _takushī_ → タクシー
     
 
-### 2. Entrenamiento Auditivo
+#### 2. Entrenamiento Auditivo
 
 Los [diacríticos](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) preparan para:
 
 - Reconocer vocales débiles en pronunciación natural
     
-- Identificar patrones de acento regional
+- Identificar patrones de acentuación
     
 - Distinguir homófonos en contexto
     
 
-### 3. Ventajas Gramaticales
+#### 3. Ventajas Gramaticales
 
 - Las partículas se destacan visualmente
     
