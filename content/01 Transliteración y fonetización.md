@@ -1,5 +1,5 @@
 ---
-title: "Transliteración y fonetización"
+title: 01 Transliteración y fonetización
 draft: false
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional

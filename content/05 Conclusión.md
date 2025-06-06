@@ -1,5 +1,5 @@
 ---
-title: Conclusión
+title: 05 Conclusión
 draft: false
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional
@@ -17,7 +17,7 @@ Gracias a este nuevo “$r \bar{o} maji$ $hispanizado$", podemos transliterar bi
 
 
 
-|     << Justificación     | \|\| | Ejemplos prácticos >>  |
-| :---------------------------------------: | :--: | :-----------------------------: |
+|     << Justificación     | \|\| |     Ejemplos prácticos >>     |
+| :----------------------: | :--: | :---------------------------: |
 | [[04 Justificación\|⬅️]] |      | [[06 Ejemplos prácticos\|➡️]] |
 

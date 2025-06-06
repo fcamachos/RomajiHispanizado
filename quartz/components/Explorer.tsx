@@ -33,7 +33,11 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => {
+    const isTag = node.name === "tags"
+    const isAsset = node.file?.path?.includes("assets/")
+    return !isTag && !isAsset
+  },
   order: ["filter", "map", "sort"],
 } satisfies Options
 

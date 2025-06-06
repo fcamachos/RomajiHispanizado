@@ -1,5 +1,5 @@
 ---
-title: Romaji Hispanizado
+title: 02 Romaji Hispanizado
 draft: false
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional

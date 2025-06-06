@@ -12,17 +12,24 @@ date: 2024-10-16
 | --------- | ---------------------- |
 |           | ![[exlibris.jpg\|300]] |
 
-# Objetivo
 
-La intención de estos apuntes es dar una oportunidad a aquellos entusiastas del japonés para aprender el idioma a un nivel conversacional sin tener que lidiar necesariamente con la necesidad de aprender y dominar los silabarios del japonés[^1]: *[[hiragana]]* y *[[katakana]]*; así como del sistema de ideogramas, *[[kanji]]*.
 
-Imaginemos la siguiente situación: un trabajador mexicano, ‘[[Memo]]’, es contratado por la prestigiosa compañía japonesa *[[SupeinGo]]!*. Es común encontrar japoneses en estos sitios, quienes amablemente intentan comunicarse en español con sus demás compañeros mexicanos, o en su defecto, usando un segundo idioma como el inglés. Pero a ‘Memo’ le gustaría aprender algunas palabras y oraciones en japonés para convivir un poco más con sus nuevos compañeros.
+**Introducción**
 
-Sus intentos podrían verse frustrados al enterarse de que muchos cursos de japonés comienzan enseñando hiragana y, dependiendo de la habilidad del estudiante, le tomaría por lo menos algunas semanas en comenzar a formular oraciones más o menos coherentes.
+El objetivo de estos apuntes es ofrecer a los entusiastas del japonés una forma de alcanzar un nivel conversacional sin la necesidad inmediata de dominar los silabarios ([[hiragana]] y [[katakana]]) o el complejo sistema de [[kanji]].
 
-Ésta es solo una de las razones que me animaron a escribir *tips* y ayudas para aprender japonés desde un punto de vista conversacional. Dejando la parte de la lectura y la escritura como aditivos opcionales para estas personas.
+**Imagina esta situación:**  
+«Memo», un trabajador mexicano, es contratado por la reconocida empresa japonesa _SupeinGo!_. En su entorno, es común que sus colegas japoneses intenten comunicarse en español o inglés para facilitar la convivencia. Sin embargo, a Memo le gustaría aprender frases básicas en japonés para conectar mejor con ellos.
 
-Por supuesto, si lo que quieres es viajar a Japón como turista o trabajador, la lectura y escritura podrían llegar a ser obligatorias. Pero si tu interés es más casual/conversacional, estos apuntes son para ti.
+El problema surge cuando descubre que la mayoría de los cursos exigen empezar por el _hiragana_, lo que podría retrasar su capacidad para mantener conversaciones sencillas durante semanas.
+
+**¿La solución?**  
+Estos apuntes están diseñados para quienes buscan un enfoque **práctico y conversacional**, priorizando el habla sobre la escritura. Aquí no encontrarás lecciones tradicionales centradas en memorizar caracteres, sino herramientas para comunicarte desde el primer momento.
+
+Por supuesto, si tu meta es vivir o trabajar en Japón, tarde o temprano necesitarás aprender a leer y escribir. Pero si solo quieres interactuar de manera casual, **estos apuntes son para ti**.
+
+
+
 
 ---
 
@@ -32,5 +39,5 @@ Por supuesto, si lo que quieres es viajar a Japón como turista o trabajador, la
 |     |      | [[01 Transliteración y fonetización\|➡️]] |
 
 
-[^1]: Lo que muchos hispanohablantes conocerían como alfabetos. 
+
 
