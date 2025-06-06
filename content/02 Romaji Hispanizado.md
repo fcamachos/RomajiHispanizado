@@ -5,7 +5,7 @@ tags:
 description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-10-16 21:11
 ---
-# Romaji Hispanizado: Un Puente Natural para Hispanohablantes
+# $\mathtt{r \bar{o} maji}_{ñ}$: Un Puente Natural para Hispanohablantes
 
 ## La Necesidad de una Adaptación
 
@@ -24,18 +24,20 @@ El japonés presenta desafíos únicos para los hispanohablantes, no solo por su
 
 ### 1. Acento Agudo (´): Más que una tilde
 
-En nuestro romaji hispanizado, este [signo diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) cumple una función triple:
+En mi propuesta de un romaji hispanizado ($\mathtt{r \bar{o} maji}_{ñ}$), este [signo diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) cumple una función triple:
 
 1. **Diferenciar [[falsos homófonos|homófonos]]**: saké (酒 - alcohol) vs sake (鮭 - salmón)
     
 2. **Indicar mora tónica**: hashí (橋 - puente) vs hashi (箸 - palillos)
     
 3. **Señalar patrones de [[acento compuesto]]**: uréshíi (嬉しい - feliz)
-    
+
+>[!tip]
+>Recuerda las [[reglas de acentuación]] del español.
 
 ### 2. Acento Circunflejo (ˆ): El Arte de lo Sutil
 
-Este [diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) resuelve uno de los mayores desafíos: las vocales débiles. Su implementación sigue [[acento circunflejo|reglas precisas]]:
+Este [diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) resuelve uno de los mayores desafíos: las vocales débiles. Su implementación sigue las siguientes [[acento circunflejo|reglas precisas]]:
 
 1. **Vocales casi mudas**: sûki (好き - gustar) se pronuncia /s̥ki/
     
@@ -43,12 +45,9 @@ Este [diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) resuelve
     
 3. **Consistencia posicional**: Siempre afecta a 'i' y 'u' en posición débil
 
-> [!example] Ejemplo:
-> 
-> |Palabra|Romaji Estándar|Nuestra Versión|Explicación Fonética|
-> |---|---|---|---|
-> |飴/雨|ame|amé/ame|La tilde marca la diferencia entre "caramelo" y "lluvia" |
-> |先生|sensei|senseî|El circunflejo indica la vocal débil final y alarga la 'e'|
+>[!tip]
+>- Si una vocal tiene un acento circunflejo encima, dicha vocal es tan débil que prácticamente pierde su sonido.
+>- Alarga el sonido de la vocal anterior si es que hubiese alguna.
 
 ### 3. Macron (¯): La Elegancia de lo Largo
 
@@ -58,7 +57,7 @@ Para esta versión del romaji hispanizado se transliterará el [chōon](https://
 
 
 > [!example] Fonetización del macrón
-> | _katakana_ |  $\mathtt{r \bar{o} maji}_{hisp}$ | $fonetización$ | Español |
+> | _katakana_ |  $\mathtt{r \bar{o} maji}_{ñ}$ | $fonetización$ | Español |
 > | --- |  --- | --- | --- | 
 > | ローマ字  |  *rōmaji* | $r \bar{o} maji$ | Capital del Este |
 > | ゲーム  |   *gēmu* | $gu \bar{e} mu$ | juego |
@@ -69,7 +68,7 @@ Para esta versión del romaji hispanizado se transliterará el [chōon](https://
 Para el caso de las palabras en [[hiragana]] que requieran de una doble vocal, se escribirán sin hacer uso del macrón:
 
 > [!example] Fonetización de doble vocal
-> | Japonés |  $\mathtt{r \bar{o} maji}_{hisp}$ | Español |
+> | Japonés |  ($\mathtt{r \bar{o} maji}_{ñ}$) | Español |
 > | --- |  --- | --- | 
 > |理由| ryuu | razón |
 > |牛乳| gyuunyuu | leche |
@@ -82,12 +81,13 @@ Para el caso de las palabras en [[hiragana]] que requieran de una doble vocal, s
 
 ### Partículas y Diéresis: [[Partícula ha|ḧa vs ha]]
 
-Nuestro uso de la diéresis resuelve ambigüedades persistentes:
+El uso que propongo de la diéresis resuelve ambigüedades persistentes:
 
-1. 私は学生です → Watashi **ḧa** gakusei desû (Partícula)
-2. 歯が痛い → **Ha** ga itai (Sustantivo "diente")
+1. 私は学生です → Watashi **ḧa** `wa` gakûseî desû (Partícula)
+2. 歯が痛い → **Ha** `hha` ga itai (Sustantivo "diente")
 
-**Regla mnemotécnica**: La diéresis "abre" la pronunciación a /wa/.
+>[!tip]
+**Regla nemotécnica**: La diéresis "abre" la pronunciación a `wa`.
 
 ### [[Katakana e Itálicas]]: Un Sistema Visual
 
@@ -115,7 +115,20 @@ La itálica no solo marca extranjerismos, sino que:
 > - _tenisu_ reconocible como extranjerismo
 >     
 
-## Beneficios Pedagógicos Ampliados
+## Beneficios Pedagógicos
+
+En el caso de que el estudiante haga un uso correcto de estas simples reglas, le permitirá escribir en _hiragana_ y _katakana_ usando un teclado japonés sin apenas errores ortográficos. Además de poder ser entendido más fácilmente por cualquier persona hablante de japonés que lo escuche leer algún texto.
+
+Por ejemplo, cuando el estudiante vea la oración:
+
+>[!rom] Romaji Hispanizado
+>Watashi wa _sakkā_ ga dáisuki desû!
+
+Podrá escribir mediante un método de entrada japonés lo siguiente:
+>[!jap] hiragana / katakana
+>わたしはサッカーがだいすきです！
+
+Esta oración resulta perfectamente entendible para un nipón aunque carezca de los _[[kanji]]_ correspondientes a "yo" `私` y "gustar mucho"　`大好き`. Además de escribir correctamente en _katakana_ la palabra _soccer_ `サッカー`. 
 
 ### 1. Transición a Kana
 

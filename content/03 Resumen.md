@@ -5,27 +5,91 @@ tags:
 description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-12-09
 ---
-# Resumen
+# Sistema de Romaji Hispanizado: Resumen Integral
 
-Podemos resumir las reglas del $r \bar{o} maji$ $hispanizado$ como sigue:
+## Fundamentos Básicos
 
->[!hint] Base
-> Usa como base el _romaji_ tradicional. Aplicando los mismos valores fonéticos, con especial énfasis en las consonantes  [[Consonante G|'g']], [[Consonante H|'h']], [[Consonante J|'j']], [[Consonante R|'r']], [[Consonante Y|'y']] y [[Consonante Z|'z']] . Así como el uso de las [[Dobles consonantes]]. 
+Nuestro sistema de **romaji hispanizado ($\mathtt{r \bar{o} maji}_{ñ}$)**  se construye sobre tres pilares esenciales:
 
->[!hint] Acentos
-> El [[02 Romaji Hispanizado|romaji hispanizado]] usa, en principio, las [[reglas de acentuación]] típicas del español. Con el añadido del uso del [[acento circunflejo]] y los [[acento compuesto|acentos compuestos]]. 
-
->[!tip] Uso del macrón cuando exista un _chōon_ en _katakana_
-> Tal y como se mencionó para las [[Vocales largas|vocales largas]]. El [[macrón]] se usará exclusivamente para representar al _chōon_ `ー` en palabras que se escriban en [[katakana]]. En el caso de las palabras en [[hiragana]], se usarán directamente las [[02 Romaji Hispanizado#3.5. Dobles vocales en hiragana|dobles vocales]].
-
->[!tip] Uso de la diéresis para diferenciar la partícula **ḧa** de la palabra **ha**
-> La partícula 'ḧa' se fonetizará como `wa`, mientras que la palabra 'ha' se fonetizará como `hha`. 
-
->[!tip] Uso del formato cursiva/itálica para diferenciar el _katakana_
-> Los extranjerismos y otras palabras que se escriben en _katakana_  serán señaladas con una fuente itálica para diferenciarlas de las palabras en _hiragana_/_kanji_.
+1. **Base tradicional**: Conservamos la estructura del romaji estándar
+    
+2. **Adaptación fonética**: Modificamos valores consonánticos clave.
+    
+3. **Sistema diacrítico**: Implementamos signos gráficos específicos
 
 
-> [!example] Ejemplos:
+### Consonantes Especiales
+
+| Consonante | Sonido en Español         | Ejemplo Japonés | Transliteración |
+| ---------- | ------------------------- | --------------- | --------------- |
+| g          | Siempre "g" fuerte (gato) | が               | ga              |
+| h          | Aspirada suave (ham)      | は               | hha             |
+| j          | Como "ll" (llave)         | じ               | lli             |
+| r          | Suave (cara)              | ら               | ra              |
+| y          | Diptongo (ia/io/iu)       | ゆ               | iu              |
+| z          | Africada (ads)            | ず               | dzu             |
+
+## Sistema Diacrítico Completo
+
+### 1. Acento Agudo (´)
+
+- **Función**: Marca sílaba tónica principal
+    
+- **Ejemplos**:
+    
+    - saké (酒) vs. sake (鮭)
+        
+    - hashí (橋) vs. hashi (箸)
+        
+
+### 2. Acento Circunflejo (ˆ)
+
+- **Reglas**:
+    
+    1. Indica vocal débil casi muda
+        
+    2. Alarga vocal precedente
+        
+    3. Solo aplica a 'i' y 'u'
+        
+- **Ejemplos**:
+    
+    - desû (です) → `des`
+        
+    - koûsûke (康介) → `ko-ske`
+        
+
+### 3. Macron (¯)
+
+- **Uso exclusivo** para chōon (ー) en katakana:
+    
+    - _gēmu_ (ゲーム)
+        
+    - _sakkā_ (サッカー)
+        
+
+## Convenciones Especiales
+
+### Partícula "ha" vs. Sustantivo
+
+| Forma | Pronunciación | Ejemplo                        |
+| ----- | ------------- | ------------------------------ |
+| ḧa    | `wa`          | Watashi ḧá gakusei desû        |
+| ha    | `hha`         | Ha ga itaî ("El diente duele") |
+
+### Katakana e Itálicas
+
+- **Criterios**:
+    
+    - Extranjerismos: _takushii_ (タクシー)
+        
+    - Onomatopeyas: _wanwan_ (ワンワン)
+        
+    - Nombres científicos: _oranguṭan_ (オランウータン)
+        
+
+
+> [!success] Ejemplos:
 > | _katakana_ |  $\mathtt{r \bar{o} maji}_{hisp}$ | Español |
 > | --- |  --- | --- | 
 > | 酒  |  saké   | alcohol |
@@ -38,16 +102,5 @@ Podemos resumir las reglas del $r \bar{o} maji$ $hispanizado$ como sigue:
 
 ---
 
-
-|     << Romaji Hispanizado     | \|\| | Justificación >>  |
-| :---------------------------------------: | :--: | :-----------------------------: |
-| [[02 Romaji Hispanizado\|⬅️]] |      | [[04 Justificación#Justificación\|➡️]] |
-
-
-
-
-%% Dado que estos apuntes tienen un enfoque de aprendizaje conversacional, haremos uso de nuestro personaje [[Memo]] y de la compañía ficticia a la que pertenece "[[SupeinGo]]!".
-
-Comenzaremos haciendo uso de presentaciones casuales, reglas básicas de estructuración y mucho vocabulario.  %%
-
-
+**Navegación**:  
+[[02 Romaji Hispanizado|◄ Sistema Completo]] | [[04 Justificación|Base Lingüística ►]]

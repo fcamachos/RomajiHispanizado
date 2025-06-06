@@ -37,7 +37,7 @@ La respuesta depende de tus objetivos:
 - **Transliteraciones fonéticas**: Usadas en entornos educativos informales
 
 
-En estos apuntes proponemos un [[02 Romaji Hispanizado|Romaji Hispanizado]] especialmente adaptado para hispanohablantes. 
+En estos apuntes proponemos un [[02 Romaji Hispanizado|Romaji Hispanizado]] ($\mathtt{r \bar{o} maji}_{ñ}$) especialmente adaptado para hispanohablantes. 
 
 
 ## Fundamentos del romaji estándar
@@ -78,7 +78,7 @@ El japonés contiene sonidos que no existen en español. Estas son las convencio
 1. **[[Dobles consonantes]]**:
    Representan una pausa breve (っ → kappa → kap:a)
 2. **[[Vocales largas]]**:
-   Indicadas con macrón (ō) requieren alargar el sonido   
+   Indicadas con macrón (ō) o doble vocal (oo) requieren alargar el sonido   
 3. **[[Partículas especiales]]**:
    - は (ha) como partícula suena "wa"
    - を (wo) suena "o"
