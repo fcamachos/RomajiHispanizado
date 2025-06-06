@@ -34,10 +34,3 @@ Por supuesto, si lo que quieres es viajar a Japón como turista o trabajador, la
 
 [^1]: Lo que muchos hispanohablantes conocerían como alfabetos. 
 
-
----
-
-**Licencia:** Este documento está licenciado bajo una [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
-© 2025 **fcamachos**
-
----

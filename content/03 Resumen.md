@@ -44,13 +44,6 @@ Podemos resumir las reglas del $r \bar{o} maji$ $hispanizado$ como sigue:
 | [[02 Romaji Hispanizado\|⬅️]] |      | [[04 Justificación#Justificación\|➡️]] |
 
 
----
-
-**Licencia:** Este documento está licenciado bajo una [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
-© 2025 **fcamachos**
-
----
-
 
 
 %% Dado que estos apuntes tienen un enfoque de aprendizaje conversacional, haremos uso de nuestro personaje [[Memo]] y de la compañía ficticia a la que pertenece "[[SupeinGo]]!".

@@ -21,10 +21,3 @@ Gracias a este nuevo “$r \bar{o} maji$ $hispanizado$", podemos transliterar bi
 | :---------------------------------------: | :--: | :-----------------------------: |
 | [[04 Justificación\|⬅️]] |      | [[06 Ejemplos prácticos\|➡️]] |
 
-
----
-
-**Licencia:** Este documento está licenciado bajo una [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
-© 2025 **fcamachos**
-
----

@@ -243,10 +243,3 @@ Por otro lado, la partícula _wo_ `を`, muchas veces se fonetiza como $o$.
 [^5]: No confundir con el sonido de la **fricativa postalveolar sonora**, usada en algunas regiones de Argentina, especialmente en Buenos Aires y otras áreas del Río de la Plata cuyo sonido es similar al 'sh'. 
 [^6]: Este sonido se llama **fricativa alveolar sonora**. El sonido **[z]** se produce cuando el aire pasa por una constricción creada por la lengua y los alvéolos (la zona detrás de los dientes superiores), mientras las cuerdas vocales vibran, lo que le da su sonoridad.
 
-
----
-
-**Licencia:** Este documento está licenciado bajo una [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
-© 2025 **fcamachos**
-
----

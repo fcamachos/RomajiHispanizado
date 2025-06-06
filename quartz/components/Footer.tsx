@@ -1,33 +1,39 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/footer.scss"
-import { version } from "../../package.json"
-import { i18n } from "../i18n"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../quartz/components/types"
 
-interface Options {
-  links: Record<string, string>
+const Footer: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
+  return (
+    <footer
+    class="footer"
+    style={{
+      padding: "1rem",
+      textAlign: "center",
+      fontSize: "0.9rem",
+      color: "var(--gray)",
+          borderTop: "1px solid var(--lightgray)",
+          marginTop: "2rem",
+    }}
+    >
+    <p style={{ margin: "0.5rem 0" }}>
+    © 2025 <strong>fcamachos</strong> — Contenido bajo licencia{" "}
+    <a
+    href="https://creativecommons.org/licenses/by-sa/4.0/"
+    target="_blank"
+    rel="license noopener noreferrer"
+    >
+    CC BY-SA 4.0
+    </a>
+    . Código de la plantilla bajo{" "}
+    <a
+    href="https://opensource.org/licenses/MIT"
+    target="_blank"
+    rel="noopener noreferrer"
+    >
+    MIT License
+    </a>
+    .
+    </p>
+    </footer>
+  )
 }
 
-export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const year = new Date().getFullYear()
-    const links = opts?.links ?? []
-    return (
-      <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
-      </footer>
-    )
-  }
-
-  Footer.css = style
-  return Footer
-}) satisfies QuartzComponentConstructor
+export default (() => Footer) satisfies QuartzComponentConstructor

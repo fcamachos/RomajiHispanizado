@@ -62,10 +62,3 @@ Otra ventaja para los hispanohablantes, es que aprender a leer y escribir en est
 [^1]: En un ejemplo anterior se mencionó el caso de _jarakiri_, el cual es diferente a la estandarización _harakiri_.
 
 
-
----
-
-**Licencia:** Este documento está licenciado bajo una [Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
-© 2025 **fcamachos**
-
----
