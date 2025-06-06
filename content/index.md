@@ -12,7 +12,7 @@ date: 2024-10-16
 Estos apuntes proponen un **sistema alternativo** para hispanohablantes interesados en el japonés conversacional, priorizando la comunicación oral sobre la escritura. Su objetivo es facilitar el acceso a interacciones básicas sin requerir el estudio inicial de los silabarios ([[hiragana]] y [[katakana]]) o [[kanji]].
 
 **Imagina esta situación:**  
-«[[Memo]]», un trabajador mexicano, es contratado por la reconocida empresa japonesa [[SupeinGo]]!. En su entorno, es común que sus colegas japoneses intenten comunicarse en español o inglés para facilitar la convivencia. Sin embargo, a Memo le gustaría aprender frases básicas en japonés para conectar mejor con ellos.
+«Memo», un trabajador mexicano, es contratado por la reconocida empresa japonesa [[SupeinGo]]!. En su entorno, es común que sus colegas japoneses intenten comunicarse en español o inglés para facilitar la convivencia. Sin embargo, a Memo le gustaría aprender frases básicas en japonés para conectar mejor con ellos.
 
 El problema surge cuando descubre que la mayoría de los cursos exigen empezar por el hiragana, lo que podría retrasar su capacidad para mantener conversaciones sencillas durante semanas.
 
