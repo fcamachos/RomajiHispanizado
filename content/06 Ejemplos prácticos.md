@@ -1,6 +1,6 @@
 ---
 title: 06 Ejemplos prácticos
-draft: false
+draft: true
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-12-09 14:16
