@@ -10,13 +10,13 @@ date: 2024-12-09
 Podemos resumir las reglas del $r \bar{o} maji$ $hispanizado$ como sigue:
 
 >[!hint] Base
-> Usa como base el _romaji_ tradicional. Aplicando los mismos valores fonéticos, con especial énfasis en las letras  [[01 Transliteración y fonetización#Consonantes 'g', 'h', 'j', 'r', 'y' y 'z'|'g', 'h', 'j', 'y' y 'z']]. Así como el uso de las [[01 Transliteración y fonetización#Dobles consonantes|dobles consonantes]]. 
+> Usa como base el _romaji_ tradicional. Aplicando los mismos valores fonéticos, con especial énfasis en las consonantes  [[Consonante G|'g']], [[Consonante H|'h']], [[Consonante J|'j']], [[Consonante R|'r']], [[Consonante Y|'y']] y [[Consonante Z|'z']] . Así como el uso de las [[Dobles consonantes]]. 
 
 >[!hint] Acentos
-> El [[02 Romaji Hispanizado|romaji hispanizado]] usa las [[reglas de acentuación]] típicas del español. Con el añadido del uso del [[02 Romaji Hispanizado#Uso del acento circunflejo|acento circunflejo]]. 
+> El [[02 Romaji Hispanizado|romaji hispanizado]] usa, en principio, las [[reglas de acentuación]] típicas del español. Con el añadido del uso del [[acento circunflejo]] y los [[acento compuesto|acentos compuestos]]. 
 
 >[!tip] Uso del macrón cuando exista un _chōon_ en _katakana_
-> Tal y como se mencionó para las [[02 Romaji Hispanizado#Vocales largas en _katakana_ y dobles vocales|vocales largas]]. El [[macrón]] se usará exclusivamente para representar al _chōon_ `ー` en palabras que se escriban en _katakana_.
+> Tal y como se mencionó para las [[Vocales largas|vocales largas]]. El [[macrón]] se usará exclusivamente para representar al _chōon_ `ー` en palabras que se escriban en [[katakana]]. En el caso de las palabras en [[hiragana]], se usarán directamente las [[02 Romaji Hispanizado#3.5. Dobles vocales en hiragana|dobles vocales]].
 
 >[!tip] Uso de la diéresis para diferenciar la partícula **ḧa** de la palabra **ha**
 > La partícula 'ḧa' se fonetizará como `wa`, mientras que la palabra 'ha' se fonetizará como `hha`. 

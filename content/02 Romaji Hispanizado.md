@@ -24,7 +24,7 @@ El japonés presenta desafíos únicos para los hispanohablantes, no solo por su
 
 ### 1. Acento Agudo (´): Más que una tilde
 
-En nuestro romaji hispanizado, el acento agudo cumple una función triple:
+En nuestro romaji hispanizado, este [signo diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) cumple una función triple:
 
 1. **Diferenciar [[falsos homófonos|homófonos]]**: saké (酒 - alcohol) vs sake (鮭 - salmón)
     
@@ -35,7 +35,7 @@ En nuestro romaji hispanizado, el acento agudo cumple una función triple:
 
 ### 2. Acento Circunflejo (ˆ): El Arte de lo Sutil
 
-Este diacrítico resuelve uno de los mayores desafíos: las vocales débiles. Su implementación sigue [[Acento circunflejo|reglas precisas]]:
+Este [diacrítico](https://es.wikipedia.org/wiki/Signo_diacr%C3%ADtico) resuelve uno de los mayores desafíos: las vocales débiles. Su implementación sigue [[acento circunflejo|reglas precisas]]:
 
 1. **Vocales casi mudas**: sûki (好き - gustar) se pronuncia /s̥ki/
     
@@ -110,7 +110,7 @@ La itálica no solo marca extranjerismos, sino que:
 > 
 > **Ventajas**:
 > 
-> - ḧá claramente identificable como partícula
+> - ḧa claramente identificable como partícula
 >     
 > - _tenisu_ reconocible como extranjerismo
 >     
