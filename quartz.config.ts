@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
     configuration: {
-        pageTitle: "🏯 fcamachos",//"🪴 Quartz 4.0",
+        pageTitle: "🏯 Romaji Hispanizado",//"🪴 Quartz 4.0",
         pageTitleSuffix: "",
         enableSPA: true,
         enablePopovers: true,

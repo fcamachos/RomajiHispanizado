@@ -87,5 +87,5 @@ El japonés contiene sonidos que no existen en español. Estas son las convencio
 ---
 ◄ [[Index|Inicio]] | **Siguiente**: [[02 Romaji Hispanizado|Romaji hispanizado ►]]
 
----
+
 
