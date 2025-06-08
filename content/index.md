@@ -1,10 +1,10 @@
 ---
-
 title: Inicio
 draft: false
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-10-16
+enableToc: false
 ---
 # $\mathtt{r \bar{o} maji}_{ñ}$
 ## **Introducción: Un Enfoque Práctico para el Japonés Conversacional**
