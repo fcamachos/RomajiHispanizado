@@ -17,11 +17,12 @@ Estos apuntes proponen un **sistema alternativo** para hispanohablantes interesa
 El problema surge cuando descubre que la mayoría de los cursos exigen empezar por el hiragana, lo que podría retrasar su capacidad para mantener conversaciones sencillas durante semanas.
 
 **¿La solución?**  
-Estos apuntes están diseñados para quienes buscan un enfoque **práctico y conversacional**, priorizando el habla sobre la escritura. Aquí no encontrarás lecciones tradicionales centradas en memorizar caracteres, sino herramientas para comunicarte desde el primer momento.
+Estos apuntes ofrecen un enfoque **práctico y conversacional** mediante un _romaji hispanizado_ ($\mathtt{r \bar{o} maji_{ñ}}$), adaptación del sistema tradicional para hispanohablantes. Priorizan el habla sobre la escritura: aquí no hallarás lecciones de memorización de caracteres, sino herramientas para comunicarte inmediatamente.
 
 Por supuesto, si tu meta es vivir o trabajar en Japón, tarde o temprano necesitarás aprender a leer y escribir. Pero si solo quieres interactuar de manera casual, **estos apuntes son para ti**.
 
-> "Estos materiales buscan democratizar el acceso al japonés hablado, reconociendo que no todos los aprendices persiguen dominio escrito completo."
+>[!hint]
+Estos materiales buscan democratizar el acceso al japonés hablado, reconociendo que no todos los aprendices persiguen dominio escrito completo.
 
 
 ---
