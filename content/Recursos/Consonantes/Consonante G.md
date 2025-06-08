@@ -7,9 +7,9 @@ De este modo, cuando veas la palabra *"dar"* en japonés `あげる` _(ageru)_, 
 > [!example] Fonetización de la consonante 'g'
 > | Japonés | _romaji_ | _fonetización_ |
 > | --- | --- | --- |
-> | が  | ga | $ga$ |
-> | げ | ge | $gue$ |
-> | ぎ | gi | $gui$ |
-> | ご | go | $go$ |
-> | ぐ | gu | $gu$ |
+> | が  | ga | $\mathtt{ga}$ |
+> | げ | ge | ${} \mathtt{gue}$ |
+> | ぎ | gi | ${} \mathtt{gui} {}$ |
+> | ご | go | ${} \mathtt{go} {}$ |
+> | ぐ | gu | $\mathtt{gu}$ |
 
