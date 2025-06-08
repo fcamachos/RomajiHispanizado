@@ -22,7 +22,7 @@ Estos apuntes ofrecen un enfoque **práctico y conversacional** mediante un _rom
 Por supuesto, si tu meta es vivir o trabajar en Japón, tarde o temprano necesitarás aprender a leer y escribir. Pero si solo quieres interactuar de manera casual, **estos apuntes son para ti**.
 
 >[!hint]
-Estos materiales buscan democratizar el acceso al japonés hablado, reconociendo que no todos los aprendices persiguen dominio escrito completo.
+>Estos materiales buscan democratizar el acceso al japonés hablado, reconociendo que no todos los aprendices persiguen dominio escrito completo.
 
 
 ---
