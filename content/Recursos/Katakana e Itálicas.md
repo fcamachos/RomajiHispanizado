@@ -3,7 +3,7 @@
 
 El _katakana_ en japonés es usado para representar onomatopeyas y extranjerismos. En el español, la forma en que tenemos para diferenciar un extranjerismo es mediante el uso de la letra cursiva, o en medios digitales, mediante el uso de la fuente *itálica*. 
 
-Es por esto, que me gustaría usar esta misma regla para la propuesta de un [[02 Romaji Hispanizado|Romaji Hispanizado]]. 
+Es por esto, que me gustaría usar esta misma regla para la propuesta de un [[03|Romaji Hispanizado]]. 
 
 Un ejemplo de esto sería el siguiente:
 

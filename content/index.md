@@ -25,7 +25,8 @@ Por supuesto, si tu meta es vivir o trabajar en Japón, tarde o temprano necesit
 
 
 ---
-▶ **Siguiente**: [[01 Transliteración y fonetización|Transliteración y fonetización →]]  
+
+| [[01|Siguiente ►]]
 
 
 

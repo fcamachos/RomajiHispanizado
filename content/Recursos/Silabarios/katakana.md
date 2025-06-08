@@ -11,7 +11,7 @@ date: 2025-01-07 15:16
 El katakana es uno de los dos silabarios usados para escribir el japonés. Éste es el que se usa normalmente para los extranjerismos y onomatopeyas.
 
 A continuación se deja una tabla de los posibles fonemas relacionados a cada símbolo. 
-Recuerde que debe usarse la fonetización estándar del [[01 Transliteración y fonetización#Romaji estandarizado|romaji estandarizado]].
+Recuerde que debe usarse la fonetización estándar del [[02#Romaji estandarizado|romaji estandarizado]].
 
 
 |       |   ア a    |   イ i    |   ウ  u   |   エ  e   |   オ  o   |   ヤ  ya   |   ユ  yu   |   ヨ  yo   |     |

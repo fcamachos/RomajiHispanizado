@@ -11,7 +11,7 @@ date: 2025-01-07 13:35
 El hiragana es uno de los dos silabarios usados para escribir el japonés. Éste es el que se usa normalmente para las palabras en japonés o cuando se requiere expresar literalmente la pronunciación de algún [[kanji]].
 
 A continuación se deja una tabla de los posibles fonemas relacionados a cada símbolo. 
-Recuerde que debe usarse la fonetización estándar del [[01 Transliteración y fonetización#Romaji estandarizado|romaji estandarizado]].
+Recuerde que debe usarse la fonetización estándar del [[02#Romaji estandarizado|romaji estandarizado]].
 
 
 |       |   あ a   |   い i    |   う  u   |  え  e   |  お  o   |   ゃ  ya   |   ゅ  yu   |   ょ  yo   |     |
