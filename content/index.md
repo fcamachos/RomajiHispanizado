@@ -6,7 +6,7 @@ description: Una propuesta para aprender japonés de manera conversacional
 date: 2024-10-16
 enableToc: false
 ---
-# $\mathtt{r \bar{o} maji}_{ñ}$
+# $\mathtt{r \bar{o} maji}_{Ñ}$
 ## **Introducción: Un Enfoque Práctico para el Japonés Conversacional**
 
 Estos apuntes proponen un **sistema alternativo** para hispanohablantes interesados en el japonés conversacional, priorizando la comunicación oral sobre la escritura. Su objetivo es facilitar el acceso a interacciones básicas sin requerir el estudio inicial de los silabarios ([[hiragana]] y [[katakana]]) o [[kanji]].
