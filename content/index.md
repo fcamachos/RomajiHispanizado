@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Romaji para hispanohablantes
 draft: false
 tags: 
 description: Una propuesta para aprender japonés de manera conversacional
